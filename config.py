@@ -1,0 +1,1 @@
+# for avoiding hardcoding some paths vars and stuff
